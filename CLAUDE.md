@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Aurora JSON Schema — a collection of JSON Schema (Draft-07) definitions for the Aurora Agile Meta-Framework. These schemas validate Aurora YAML module definition files (`*.aurora.yaml` / `*.aurora.yml`) that describe domain models: bounded contexts, aggregates, and entity properties with database type mappings.
+Aurora JSON Schema — a collection of JSON Schema (Draft-07) definitions for the Aurora Agile Meta-Framework. These schemas validate Aurora YAML module definition files (`blueprint/<bc>/<module>.module.yaml`) that describe domain models: bounded contexts, aggregates, and entity properties with database type mappings.
 
 Documentation: https://docs.aurorajs.dev/
 
